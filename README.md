@@ -2,10 +2,21 @@
 - 📺 I'm Technical Manager at [LA1TV](https://github.com/LA1TV)
 - 🎓 I'm a student and teaching assistant at [Lancaster University](https://lancaster.ac.uk)
 - 🧠 I have experience in Python, JavaScript, Java, Vue.js, React, Svelte, PHP, SQL, C (and a little Erlang!)
+- 🔊🎚 I'm experienced in sound mixing and vision mixing, and in broadcast media
+
+### What I'm up to 🙌
+- 🧑‍💼🔆 **<ins>I'm interested in summer internships!</ins> [Connect with me on 💼 LinkedIn](https://www.linkedin.com/in/jackdunncodes), make sure to mention my GitHub :)** 🔆🧑‍💼
+- 🔊 I'm working towards [Dante Level 2 certification](https://www.audinate.com/learning/training-certification/dante-certification-program#l2)
+- 📻 I present a show on the radio, and I'm currently producing a Dungeons and Dragons online TV show
+- 🌐 I work on the [LA1TV website](https://la1tv.co.uk)
 
 ### How to reach me 📫
 - ✉️ You can find my email [on my website](https://dunn.eu.org/contact)
 - 💼 Or send me a message to [my LinkedIn](https://www.linkedin.com/in/jackdunncodes)
+- 💬 Ask me about:
+  - Student media
+  - Audio and video
+  - Web development
 
 <!--
 **JackDunnCodes/JackDunnCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
