@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Jack 👋
+- 📺 I'm Technical Manager at [LA1TV](https://github.com/LA1TV)
+- 🎓 I'm a student and teaching assistant at [Lancaster University](https://lancaster.ac.uk)
+- 🧠 I have experience in Python, JavaScript, Java, Vue.js, React, Svelte, PHP, SQL, C (and a little Erlang!)
+
+### How to reach me 📫
+- ✉️ You can find my email [on my website](https://dunn.eu.org/contact)
+- 💼 Or send me a message to [my LinkedIn](https://www.linkedin.com/in/jackdunncodes)
 
 <!--
 **JackDunnCodes/JackDunnCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
