@@ -6,8 +6,9 @@
 
 ### What I'm up to 🙌
 - 🧑‍💼🔆 **<ins>I'm interested in summer internships!</ins> [Connect with me on 💼 LinkedIn](https://www.linkedin.com/in/jackdunncodes), make sure to mention my GitHub :)** 🔆🧑‍💼
-- 🔊 I'm working towards [Dante Level 2 certification](https://www.audinate.com/learning/training-certification/dante-certification-program#l2)
+- 🔊 I'm working towards [Dante Level 2 certification](https://www.audinate.com/learning/training-certification/dante-certification-program#l2) and the [RSGB Foundation Amateur Radio licence](https://rsgb.org/main/clubs-training/for-students/foundation/)
 - 📻 I present a show on the radio, and I'm currently producing a Dungeons and Dragons online TV show
+- ⚽ I'm Lancaster Tech Lead for [this year's Roses media coverage](https://roseslive.co.uk)!
 - 🌐 I work on the [LA1TV website](https://la1tv.co.uk)
 
 ### How to reach me 📫
