@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <table><tbody><tr><td>Octo-Ring - Discover other github profiles! I'm not directly affiliated or endorsing these profiles (since I don't control who joins the ring).<br><a href="https://octo-ring.com/p/JackDunnCodes/prev">⏮ Previous profile</a> &bull; <a href="https://octo-ring.com/p/JackDunnCodes/random">🎲 Random Profile</a>  &bull; <a href="https://octo-ring.com/p/JackDunnCodes/next">Next profile ⏭</a><br><a href="https://octo-ring.com/">More profiles, and more info about the Octo-Ring</a></td></tr></tbody></table>
+-->
