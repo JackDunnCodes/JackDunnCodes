@@ -3,7 +3,7 @@
   - I work on all kinds of systems from complex bespoke systems for booking school meals to standard e-commerce websites!
 - 📺 I was Technical Manager for 2 years at [LA1TV](https://github.com/LA1TV)
 - ⚽ I was Lancaster Tech Lead for [2023's Roses media coverage](https://roseslive.co.uk)
-- 🎓 I was a student and teaching assistant at [Lancaster University](https://lancaster.ac.uk)
+- 🎓 I graduated Computer Science at [Lancaster University](https://lancaster.ac.uk) in 2024 - where I was also a teaching assistant
 - 🧠 I have experience in Python, PHP, WordPress, CodeIgniter, JavaScript, Java, Vue.js, React, Svelte, SQL, C (and a little Erlang!)
 - 🔊🎚 I'm experienced in sound mixing and vision mixing, and in broadcast media
 - 📻 I presented a show on broadcast radio, and I produced online TV shows
