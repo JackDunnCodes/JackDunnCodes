@@ -1,8 +1,8 @@
 ### Hi, I'm Jack 👋
 - 📚 I'm a web developer at [BFI](https://www.wearebfi.co.uk/)
   - I work on all kinds of systems from complex bespoke systems for booking school meals to standard e-commerce websites!
-- 📺 I was Technical Manager for 2 years at [LA1TV](https://github.com/LA1TV)
-- ⚽ I was Lancaster Tech Lead for [2023's Roses media coverage](https://roseslive.co.uk)
+- 📺 I was Technical Manager for 2 years at [LA1TV](https://github.com/LA1TV), and was awarded lifetime membership for my contributions
+- ⚽ I was Lancaster Tech Lead for [2023's Roses media coverage](https://roseslive.co.uk), and have continued to volunteer every year from 2022 to 2026
 - 🎓 I graduated Computer Science at [Lancaster University](https://lancaster.ac.uk) in 2024 - where I was also a teaching assistant
 - 🧠 I have experience in Python, PHP, WordPress, CodeIgniter, JavaScript, Java, Vue.js, React, Svelte, SQL, C (and a little Erlang!)
 - 🔊🎚 I'm experienced in sound mixing and vision mixing, and in broadcast media
